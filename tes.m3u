@@ -1,13 +1,3 @@
-========FRIENDLY============
-
-
-
-
-
-
-
-========AFC U-17============
-
 
 
 #EXTINF:-1 group-title="AFC U17" tvg-logo="https://bit.ly/3e7Lvds",1.Indonesia (20:00 wib)
@@ -20,9 +10,6 @@
 
 
 
-
-
-EGI & WITAN========
 
 
 
@@ -117,11 +104,6 @@ EGI & WITAN========
 
 
 
-
-
-
-
-========INDONESIA=========
 
 
 
@@ -280,10 +262,6 @@ http://tvn.x10.mx/1/master-13.m3u8?dl\u003d1
 
 
 
-========RACE===========
-
-
-
 #EXTINF:-1 group-title="RACE" tvg-logo="https://2.bp.blogspot.com/-TTmmrYrXBOY/USSDhx1mb0I/AAAAAAAAAOU/E0UzNbHwjz8/s1600/MotoGP_by_ospyder.jpg",MOTO GP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,10 +330,6 @@ https://cdn1motogpcom.akamaized.net/hls/sbkipf/0.m3u8?hdnts=st=1668127891~exp=16
 
 
 
-
-========NBA LIVE===========
-
-
 #EXTINF:-1 group-title="NBA LIVE" tvg-logo="https://bit.ly/3SjnfUJ",0.NBA LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG44/chunklist.m3u8|Referer=https://xoivo6.com/
@@ -414,12 +388,6 @@ http://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG39/chunklist.m3u8|R
 
 
 
-
-
-
-
-
-========FIGHT===========
 
 
 
@@ -494,14 +462,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1666377383~acl=/hls-b/ingest_7261_
 
 
 
-
-
-
-
-
-
-
-==========================TV LOKAL=============================
 
 
 
@@ -684,18 +644,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-=========TV SPORT=========
 
 
 
@@ -2015,10 +1963,6 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8
 
 
 
-=============TV DUNIA===================
-
-
-
 
 
 
@@ -2377,13 +2321,6 @@ https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 
 
 
-=============KNOWLEDGE==================
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="Dunia Lain" tvg-logo="http://images.useetv.com/logo_dunialain_big.png" group-title="KNOWLEDGE",Dunia Lain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvid.my.id/hmm/dnln.m3u8
@@ -2602,15 +2539,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 
 
 
-
-
-
-
-
-
-
-
-=============TV MOVIES==================
 
 
 
@@ -3030,14 +2958,6 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
 
 
-
-=============TV NEWS====================
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762415_ico.png?ts=1660771120" group-title="TV NEWS",berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist.m3u8
 
@@ -3205,14 +3125,6 @@ http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 
 
 
-
-
-
-
-
-
-
-=============TV KIDS===============
 
 
 
@@ -3450,14 +3362,6 @@ https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-=============TV RELIGI==================
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3.bp.blogspot.com/-jRs5Ue8yxak/XYS2X1QfLtI/AAAAAAAAoi8/zuIgaW7B41QHrbR5vhKQcBA0pVXZbZGlwCLcBGAsYHQ/s1600/citra-muslim-tv-channel-logo.png",Citra Muslim
 http://tvn.x10.mx/vidio/master-5.m3u8
@@ -3651,13 +3555,6 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
 
 
-
-=============MUSIC=================
-
-
-
-
-
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LpHu57sWawxfSi5iBYFcsWWPQVY=/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",Citra Dangdut
 http://tvn.x10.mx/live/master-11.m3u8
 
@@ -3782,12 +3679,6 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
 
 
 
-=============RADIO=================
-
-
-
-
-
 
 
 
@@ -3880,12 +3771,6 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
 
-
-
-
-
-
-=============TV DAERAH==================
 
 
 
